@@ -1,7 +1,4 @@
-# tcc_estudo_entrada_saida_igrejas
-Um estudo sobre competição de igrejas em condados dos EUA (1980-2010)
-
-Para garantir a correta reprodução do estudo realizado, é necessário que os scripts sejam executados na ordem em que estão enumerados, sendo:
+para garantir a correta reprodução do estudo realizado, é necessário que os scripts sejam executados na ordem em que estão enumerados, sendo:
 01_Tratamento_Base.R
 02_regressoes_Churches_USA_Data.do
 03_regressoes_Evangelical_And_Mainline_Churches_USA_Data.do
@@ -13,7 +10,6 @@ Para garantir a correta reprodução do estudo realizado, é necessário que os 
 09_regressoes_subamostra_Catholic_Churches_USA_Data.do
 10_Converte_txt_em_tabela_subamostra.py
 11_gerando_mapas.R
-12_gerando_mapas_categorias.R
 
 É necessário que os softwares Stata, R e Python bem como os pacotes e bibliotecas indicados nos códigos estejam instalados.
 

@@ -1,0 +1,22 @@
+2024-10-23 18:20:31 Inicio do processamento 
+
+2024-10-23 18:20:53 Inicio soma reltrad 1 
+
+2024-10-23 18:21:03 Termino soma reltrad 1 
+
+2024-10-23 18:21:03 Inicio soma reltrad 2 
+
+2024-10-23 18:21:07 Termino soma reltrad 2 
+
+2024-10-23 18:21:07 Inicio soma reltrad 3 
+
+2024-10-23 18:21:12 Termino soma reltrad 3 
+
+2024-10-23 18:21:12 Salvando base final 
+
+2024-10-23 18:21:12 Criando variáveis dummies para categorias reltrad 1 2 e 3 
+
+2024-10-23 18:21:12 Salvando base full 
+
+2024-10-23 18:22:46 Fim do processamento 
+
