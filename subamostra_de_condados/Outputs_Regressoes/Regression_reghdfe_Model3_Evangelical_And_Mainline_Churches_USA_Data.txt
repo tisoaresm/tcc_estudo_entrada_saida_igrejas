@@ -1,0 +1,26 @@
+	(1)
+VARIABLES	a_imt
+	
+a_imt_1	0.863***
+	(0.00182)
+pop_em_milhoes	0.143
+	(0.119)
+c.n_E#c.Evangelical	-0.000772*
+	(0.000416)
+c.n_E#c.Mainline	-0.000830**
+	(0.000421)
+c.n_M#c.Evangelical	-6.97e-06
+	(1.29e-05)
+c.n_M#c.Mainline	-1.35e-05*
+	(7.60e-06)
+c.n_C#c.Evangelical	-0.000362
+	(0.000373)
+c.n_C#c.Mainline	0.00105***
+	(0.000390)
+Constant	0.0373***
+	(0.00784)
+	
+Observations	517,500
+R-squared	0.851
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
